@@ -56,5 +56,10 @@ npm install vue-router@next
 npm i marked
 ```
 
+### firebase
+```
+npm install --save firebase
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
